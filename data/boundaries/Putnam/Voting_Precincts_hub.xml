@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Map</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Published from Pro project - public 
+				common requests</abstract>
+            <purpose>Voting Precincts in Putnam County, FL used in Open Data Site</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>elections</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Disclaimer: All provided Putnam County GIS data are to be considered a generalized spatial representation that is subject to revisions. This information is provided as a visual representation only and is not to be used as a legal or official representation of legal boundaries. The Putnam County Board of County Commissioners as well as the constitutional offices including the Clerk of the Court, Property Appraiser, Sheriff, Supervisor of Elections, and Tax Collector assume no responsibility associated with its misuse.</useconst>
+        <datacred>PC GIS</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
